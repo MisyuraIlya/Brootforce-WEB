@@ -6,9 +6,10 @@ Brootforce username and password in websites
                        
                        
                        
- Requirements
-  im main.py need to set path  CHROME_DVR_DIR current chrome version driver.
-  and set wordlist/
+					   Requirements
+ 
+ im main.py need to set path  CHROME_DVR_DIR current chrome version driver.
+ and set wordlist/
                        
                        
                        
